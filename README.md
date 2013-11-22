@@ -40,6 +40,6 @@ $(window).load(function() {
 
 Options
 =======
-module : path of module without .js extension
-callback : callback function for individual module
+module : path of module without .js extension \n
+callback : callback function for individual module \n
 oncomplete : callback functin after loading all modules
